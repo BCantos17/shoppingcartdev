@@ -1,11 +1,6 @@
 server:
   port: 8675
 
-spring:
-  data:
-    mongodb:
-     host: mongodb
-
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 1

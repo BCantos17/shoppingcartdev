@@ -12,8 +12,3 @@ eureka:
       enabled: true
     lease:
       duration: 5
-
-spring:
-  data:
-    mongodb:
-     host: mongodb
